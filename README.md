@@ -8,16 +8,16 @@
 <br>
 
 <p align="center">
-  Hi, I'm Austin Barnes, a current student at Pennsylvania College of Technology and Linux Support Speciailist at Penn State University.
+  Hi, I'm Austin Barnes. I am enjoy home labbing, learning various tools and services in our modern ever-evolving tech world, and am actively an Infracture Engineer at Battelle.
   <br>
   <br>
-  🎓 I am nearing graduation at Pennsylvania College of Technology with a Bachelor's in Network Administration and Engineering
+  🎓 I have graduated from Pennsylvania College of Technology with a Bachelor's in Network Administration and Engineering. I have Network + & Security + certs.
   <br>
   💻 I love learning new services and tools. I find myself falling down into rabbit holes
   <br>
-  🔬 I’m currently working on my Linux + and am considering getting my Terraform certificate
+  🔬 I’m currently working on various services, and am on and off learning and considering taking my Linux +, CCNA, and Terraform certs.
   <br>
-  📚 I’m dabbling with many services and tools. I actively homelab, and am learning Docker and Proxies.
+  📚 I’m dabbling with many services and tools. I actively homelab, and am learning Ansible, Docker, and Proxies. 
   <br>
    📃 I post some of my learnings and guides on my <a href="https://www.cinderblook.com/" title="Personal Site/Blog"><img width="16" src="https://github.com/Cinderblook/cinderblook.github.io/blob/main/static/svg/blog.svg"> Personal Site/Blog</a></code>, check it out!
   <br>
