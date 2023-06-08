@@ -11,7 +11,7 @@
   Hi, I'm Austin Barnes. I am enjoy home labbing, learning various tools and services in our modern ever-evolving tech world, and am actively an Infracture Engineer at Battelle.
   <br>
   <br>
-  🎓 I have graduated from Pennsylvania College of Technology with a Bachelor's in Network Administration and Engineering, and an Associates in Network and User Support. I actively have certification in: Microsoft Azure Administrator Associate (AZ01-4), CompTIA Security + & CompTIA Network +.
+  🎓 I have graduated from Pennsylvania College of Technology with a Bachelor's in Network Administration and Engineering, and an Associates in Network and User Support. I actively have certification in: Microsoft Azure Administrator Associate (AZ-104), CompTIA Security + & CompTIA Network +.
   <br>
   💻 I love learning new services and tools. I find myself falling down into rabbit holes
   <br>
